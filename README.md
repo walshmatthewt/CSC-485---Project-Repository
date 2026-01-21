@@ -1,0 +1,1 @@
+This repository is the main source for updates on my Spring 2026 Capstone projects. My main goal is to try to apply machine learning processes to help predict outcomes for financial decisions with more accuracy.
